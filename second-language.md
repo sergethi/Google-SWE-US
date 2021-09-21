@@ -17,4 +17,14 @@ Apprentices will be able to:
 
 ### Session Timing
 Here is a breakdown of the session activities:
+| Time    | Session                           | Description                                                                                                        |
+|-----------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 10  mins | Introduction                      | Apprentices learn their objective for the week and assess their current programming skills.                        |
+| 15 mins | Resources for Learning a Language | Apprentices explore the resources available to them as they learn a new language.                                  | 
+| 30 mins | Pick a Language                   | Apprentices determine which language they will learn during the week, and explain their justification for choosing it. |
+| 60 mins | Develop ProP Plan                 | Apprentices develop a ProP unit plan and submit it for approval.                                                   |
 
+
+### Session Breakdown
+
+DOES TONY WANT THIS???
