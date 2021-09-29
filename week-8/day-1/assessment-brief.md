@@ -41,4 +41,4 @@ At the end of the week you will have the opportunity to present your project as 
 | NF2 | MUST | The application must have evidence of automated unit testing |
 | NF3 | MUST | The application code must be documented in a manner that it would be easy for a new developer to understand |
 | NF4 | MUST | The application code must be stored in a GitHub repository and deployed on Heroku. |
-| NF5 | MUST | There must be documentation which describes:  * how to run the application * features of the application * design decisions * team roles & responsibilities * links to UI wireframes * links to UML use case, class and sequence diagrams * links the the database design * links to a unit test coverage report |
+| NF5 | MUST | There must be documentation which describes: <br> * how to run the application * features of the application * design decisions * team roles & responsibilities * links to UI wireframes * links to UML use case, class and sequence diagrams * links the the database design * links to a unit test coverage report |
