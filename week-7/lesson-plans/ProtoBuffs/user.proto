@@ -1,0 +1,10 @@
+//Install vscode-proto3 
+//npm install protobufjs
+
+package userpackage;
+syntax = "proto3";
+
+message User {
+  string name = 1;
+  int32 age = 2;
+}
